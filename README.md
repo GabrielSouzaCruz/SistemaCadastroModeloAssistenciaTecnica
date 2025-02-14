@@ -27,7 +27,7 @@ Remover dados;<br/>
 #Tela de Alterar
 ![image](https://github.com/user-attachments/assets/e41613e8-5583-4c74-ba54-2d5f52fabcdb)
 
-#Tela de Adicionar Equipamento
+#Tela de Adicionar Equipamento<br/>
 ![image](https://github.com/user-attachments/assets/a79e9074-707a-4b00-8ad6-c681886ddb31)
 
 
