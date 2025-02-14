@@ -24,3 +24,11 @@ Remover dados;<br/>
 # Tela de Busca
 ![image](https://github.com/user-attachments/assets/81384a0c-99c5-48a5-90b6-5c1f1a6aeced)
 
+#Tela de Alterar
+![image](https://github.com/user-attachments/assets/e41613e8-5583-4c74-ba54-2d5f52fabcdb)
+
+#Tela de Adicionar Equipamento
+![image](https://github.com/user-attachments/assets/a79e9074-707a-4b00-8ad6-c681886ddb31)
+
+
+
