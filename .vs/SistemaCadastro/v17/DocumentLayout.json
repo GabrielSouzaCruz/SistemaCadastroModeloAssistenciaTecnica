@@ -1,0 +1,200 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\frnlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\conectabanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|c:\\users\\gabriel\\source\\repos\\sistemacadastromodeloassistenciatecnica\\sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\biblioteca.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\frnaddequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\frnaddequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\frnlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\frnlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\frnaddequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\frnaddequipamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\sistemacadastro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96CFD860-8402-4B0B-B0D9-65A990C45932}|SistemaCadastro\\SistemaCadastro.csproj|solutionrelative:sistemacadastro\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Biblioteca.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Biblioteca.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Biblioteca.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Biblioteca.cs",
+              "RelativeToolTip": "SistemaCadastro\\Biblioteca.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T05:01:20.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "conectaBanco.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\conectaBanco.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\conectaBanco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\conectaBanco.cs",
+              "RelativeToolTip": "SistemaCadastro\\conectaBanco.cs",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAuwK4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T18:14:44.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sistema.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Sistema.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Sistema.cs [Design]",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:58:17.62Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Sistema.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Sistema.cs",
+              "RelativeToolTip": "SistemaCadastro\\Sistema.cs",
+              "ViewState": "AgIAAN4AAAAAAAAAAIAwwO0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T01:22:49.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrnLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnLogin.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\FrnLogin.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnLogin.cs [Design]",
+              "RelativeToolTip": "SistemaCadastro\\FrnLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:16:56.074Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrnLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnLogin.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\FrnLogin.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnLogin.cs",
+              "RelativeToolTip": "SistemaCadastro\\FrnLogin.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAApwC4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:18:16.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Program.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\Program.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\Program.cs",
+              "RelativeToolTip": "SistemaCadastro\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T16:58:20.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrnAddEquipamento.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnAddEquipamento.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\FrnAddEquipamento.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnAddEquipamento.cs [Design]",
+              "RelativeToolTip": "SistemaCadastro\\FrnAddEquipamento.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:41:40.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrnLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnLogin.Designer.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\FrnLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnLogin.Designer.cs",
+              "RelativeToolTip": "SistemaCadastro\\FrnLogin.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T04:30:16.394Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrnAddEquipamento.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnAddEquipamento.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\FrnAddEquipamento.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\FrnAddEquipamento.cs",
+              "RelativeToolTip": "SistemaCadastro\\FrnAddEquipamento.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T03:51:28.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\cliente.cs",
+              "RelativeDocumentMoniker": "SistemaCadastro\\cliente.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\source\\repos\\SistemaCadastroModeloAssistenciaTecnica\\SistemaCadastro\\cliente.cs",
+              "RelativeToolTip": "SistemaCadastro\\cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T17:01:12.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
