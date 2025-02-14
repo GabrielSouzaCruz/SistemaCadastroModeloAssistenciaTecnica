@@ -1,16 +1,16 @@
 # SistemaCadastroModeloAssistenciaTecnica
 
 # Linguagens Utilizadas:
-C#
+C#<br/>
 SQL
 
 # Ferramentas Utilizadas:
-Microsoft Visual Studio
-MySql Workbench
-Xampp
+Microsoft Visual Studio<br/>
+MySql Workbench<br/>
+Xampp<br/>
 
 # Funções do Software:
-Inserir dados;
-Listar dados;
-Alterar dados;
-Remover dados;
+Inserir dados;<br/>
+Listar dados;<br/>
+Alterar dados;<br/>
+Remover dados;<br/>
